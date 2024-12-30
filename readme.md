@@ -20,8 +20,7 @@ The HackMotion theme requires the Bige File Upload extension for full functional
 ## Step 3: Upload all the files at the same time to media library in WordPress
 
 1. In your WordPress admin dashboard, navigate to `Media` > `Add New`.
-2. Click `Select Files` and choose all the files you want to upload.
-3. Click `Open` to upload all the files at the same time to the media library.
+2. Click `Select Files` and choose all the files from HackMotion/HackMotion/src/assets both images and a single video.
 
 ## Step 4: Update the index.js file
 
